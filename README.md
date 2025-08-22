@@ -12,7 +12,11 @@ A visually engaging Flutter application for selecting and viewing animated chara
 
 ## Screenshots
 
-_Add screenshots here if available._
+<img width="1919" height="890" alt="image" src="https://github.com/user-attachments/assets/71c0826c-0887-4e29-bc1b-d45edf07df37" />
+<img width="1919" height="890" alt="image" src="https://github.com/user-attachments/assets/de8b1dda-635f-4980-b7c4-611dbf69c763" />
+<img width="1917" height="890" alt="image" src="https://github.com/user-attachments/assets/29efdd28-6771-4c5d-9631-8a7108c7e7cd" />
+<img width="1919" height="893" alt="image" src="https://github.com/user-attachments/assets/223db612-d297-4918-bdb1-2cd66b842659" />
+
 
 ## Getting Started
 
